@@ -1,19 +1,10 @@
-# Basic course of data analysis (and a little bit more) using Python.
-This repo is my humble contribution to put some useful information that I have gathered while working with Python and data analysis.
+# Introduction to Python (and a little bit more)
+Hey there! This is a repository that I created to help you start learning Python and data analysis. It's filled with useful information that I'm sure you'll find helpful. Each file has a brief description of its main topic, so you can easily find what you're looking for. Let me know if you have any questions or need any help!
 
-# Section 1
-Introduction to Python: installation, programming structure, main packages, and Integrated Development Environment (IDE).
-
-# Section 2
-Exploratory Data Analysis (EDA)
-
-# Section 3
-Data visualization
-
-Sometimes it's tricky to choose the right graph to display your data. I like the guide in [data-to-viz](https://www.data-to-viz.com/)
-
-# Section 4
-Machine learning models
-
-# License
-Please see the [`LICENSE`](https://github.com/datejada/data-analysis-with-python/blob/master/LICENSE) file
+- [01-Intro2Python-bases.ipynb](01-Intro2Python-bases.ipynb): Introduction to Python basics.
+- [02-Intro2Python-pandas.ipynb](02-Intro2Python-pandas.ipynb): Introduction to using pandas library in Python.
+- [03-Intro2Python-viz](03-Intro2Python-viz): Introduction to data visualization in Python.
+- [04-Intro2Python-bucles.ipynb](04-Intro2Python-bucles.ipynb): Introduction to loops in Python.
+- [05-Intro2Python-ExtraMaterial1.ipynb](05-Intro2Python-ExtraMaterial1.ipynb): Time series analysis using pandas.
+- [06-Intro2Python-ExtraMaterial2.ipynb](06-Intro2Python-ExtraMaterial2.ipynb): Merge function in pandas. 
+- [07-Intro2Python-ExtraMaterial3.ipynb](07-Intro2Python-ExtraMaterial3.ipynb): More advanced visualizations.
