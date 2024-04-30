@@ -12,7 +12,7 @@ et-xmlfile==1.1.0
 executing==2.0.1
 fastjsonschema==2.19.0
 fonttools==4.46.0
-idna==3.6
+idna==3.7
 ipykernel==6.27.1
 ipython==8.18.1
 jedi==0.19.1
