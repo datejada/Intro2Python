@@ -46,7 +46,7 @@ pytz==2023.3.post1
 pywin32==306
 pyzmq==25.1.2
 referencing==0.32.0
-requests==2.31.0
+requests==2.32.2
 rpds-py==0.15.2
 scipy==1.11.4
 seaborn==0.13.0
